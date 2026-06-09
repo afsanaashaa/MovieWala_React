@@ -89,7 +89,7 @@ const App = () => {
       <div className='wrapper'>
         <header>
           {/* <img className='h-[100px] w-[100px]' src="public/logo.png" alt="" /> */}
-          <img src="public/hero-img.png" alt="" />
+          <img src="hero-img.png" alt="" />
           <h1>Find <span className='text-gradient'>Movies</span>You'll Enjoy Without the Hassle</h1>
         <Search searchTerm = {searchTerm} setSearchTerm = {setSearchTerm}/>
         </header>
