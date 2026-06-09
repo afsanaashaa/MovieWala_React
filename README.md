@@ -5,6 +5,9 @@ A sleek movie discovery app built with React + Vite, powered by the TMDB API and
 > 📚 **Learning Project** — Built while following a React tutorial to practice core React concepts like hooks, state management, side effects, and component composition. This was my hands-on way of learning React by building something real.
 
 ---
+## 🌐 Live Demo
+
+🔗 https://movie-wala-react.vercel.app/
 
 ## ✨ Features
 
